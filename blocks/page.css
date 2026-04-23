@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box; /* Esto hace que el padding NO sume ancho */
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow-x: hidden; /* Cortamos la barra desde la raíz del navegador */
+  width: 100%;
+}
+
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: #2a2c2f;
+  position: relative; /* Importante para que los hijos se alineen bien */
+  overflow: hidden; /* Doble seguridad */
+}
