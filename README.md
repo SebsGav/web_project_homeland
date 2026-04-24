@@ -26,4 +26,4 @@ Este es un proyecto web desarrollado como parte del programa de TripleTen. Consi
 ## Enlace a GitHub Pages
 
 Puedes ver el proyecto en vivo aquí:
-[https://tu-usuario.github.io/nombre-de-tu-repositorio/](https://tu-usuario.github.io/nombre-de-tu-repositorio/)
+https://sebsgav.github.io/web_project_homeland/
