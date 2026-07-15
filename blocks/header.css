@@ -75,7 +75,7 @@ h2 {
   letter-spacing: 0%;
 }
 
-.header__paragraph--author {
+.header__paragraph_author {
   max-width: 732px;
   margin-top: 10px;
   font-weight: 400;
@@ -114,7 +114,7 @@ h2 {
     line-height: 1.2;
   }
 
-  .header__paragraph--size-medium {
+  .header__paragraph_size_medium {
     line-height: 1.5;
   }
 }
@@ -156,7 +156,7 @@ h2 {
     line-height: 1.2;
   }
 
-  .header__paragraph--size-medium {
+  .header__paragraph_size_small {
     line-height: 1.5;
   }
 }
