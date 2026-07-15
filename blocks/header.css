@@ -94,13 +94,6 @@ h2 {
   letter-spacing: 0%;
 }
 
-.footer {
-  padding-top: 92px;
-  padding-bottom: 24px;
-  margin: auto;
-  text-align: center;
-}
-
 @media screen and (max-width: 768px) {
   .header__logo {
     width: 254px;
