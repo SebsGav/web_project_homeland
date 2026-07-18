@@ -1,24 +1,3 @@
-h1,
-h2,
-p {
-  margin: 0;
-  padding: 0;
-  color: white;
-}
-
-h1,
-h2 {
-  font-family: "Inter-bold";
-}
-
-.header__logo {
-  display: block;
-  width: 255px;
-  height: auto;
-  margin: auto;
-  padding-top: 34px;
-}
-
 .header__lead {
   max-width: 984px;
   margin: 91px auto 0;
