@@ -1,9 +1,9 @@
-.header__lead {
+.content__lead {
   max-width: 984px;
   margin: 91px auto 0;
 }
 
-.header__title {
+.content__title {
   max-width: 720px;
   margin: 0 auto;
   font-weight: 900;
@@ -14,7 +14,7 @@
   text-align: center;
 }
 
-.header__paragraph_size_large {
+.content__paragraph_size_large {
   max-width: 720px;
   margin: 32px auto 0;
   font-weight: 400;
@@ -24,7 +24,7 @@
   text-align: center;
 }
 
-.header__image {
+.content__image {
   width: 100%;
   max-width: 984px;
   height: auto;
@@ -32,12 +32,12 @@
   display: block;
 }
 
-.header__intro {
+.content__intro {
   max-width: 830px;
   margin: 92px 0 0 148px;
 }
 
-.header__intro-title {
+.content__intro-title {
   max-width: 830px;
   font-weight: 900;
   font-size: 3.7rem;
@@ -45,7 +45,7 @@
   letter-spacing: 0%;
 }
 
-.header__paragraph_size_medium {
+.content__paragraph_size_medium {
   max-width: 738px;
   margin-top: 40px;
   font-weight: 400;
@@ -54,7 +54,7 @@
   letter-spacing: 0%;
 }
 
-.header__paragraph_author {
+.content__paragraph_author {
   max-width: 732px;
   margin-top: 10px;
   font-weight: 400;
@@ -64,7 +64,7 @@
   text-align: right;
 }
 
-.header__paragraph_size_small {
+.content__paragraph_size_small {
   max-width: 722px;
   margin-top: 32px;
   font-weight: 400;
@@ -74,72 +74,72 @@
 }
 
 @media screen and (max-width: 768px) {
-  .header__logo {
+  .content__logo {
     width: 254px;
     padding-top: 30px;
   }
 
-  .header__image {
+  .content__image {
     margin-top: 30px;
   }
 
-  .header__intro {
+  .content__intro {
     max-width: 728px;
     margin: 90px 24px 0;
   }
 
-  .header__intro-title {
+  .content__intro-title {
     font-size: 2.9rem;
     line-height: 1.2;
   }
 
-  .header__paragraph_size_medium {
+  .content__paragraph_size_medium {
     line-height: 1.5;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .header__logo {
+  .content__logo {
     width: 188px;
     padding-top: 20px;
   }
 
-  .header__lead {
+  .content__lead {
     margin-top: 50px;
     max-width: 100%;
     margin: 50px auto 0;
   }
 
-  .header__title {
+  .content__title {
     font-size: 3rem;
     margin: 0 auto;
     max-width: 228px;
   }
 
-  .header__paragraph_size_large {
+  .content__paragraph_size_large {
     font-size: 1rem;
   }
 
-  .header__image {
+  .content__image {
     margin-top: 30px;
     width: 320px;
   }
 
-  .header__intro {
+  .content__intro {
     max-width: 288px;
     margin: 64px auto 0;
   }
 
-  .header__intro-title {
+  .content__intro-title {
     font-size: 1.9rem;
     line-height: 1.2;
   }
 
-  .header__paragraph_size_medium {
+  .content__paragraph_size_medium {
     line-height: 1.2;
   }
 
-  .header__paragraph_size_small {
+  .content__paragraph_size_small {
     line-height: 1.5;
   }
 }
